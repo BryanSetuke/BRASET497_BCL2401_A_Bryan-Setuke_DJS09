@@ -1,5 +1,5 @@
 {
-  "name": "MAQJIY456_wf02401_GroupB_Maqoba-Jiyane_DJS09",
+  "name": "project",
   "description": "https://v2.scrimba.com/learn-typescript-c0l/~01i",
   "scripts": {
     "dev": "webpack serve --open --mode development",
