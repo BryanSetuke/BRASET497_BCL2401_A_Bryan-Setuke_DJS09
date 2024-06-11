@@ -141,7 +141,7 @@ function addReviews(array : Review[]) : void {
 
 button.addEventListener('click', () => addReviews(reviews))
 
-let currentLocation : [string, string, number] = ['London', '11.03', 17]
+let currentLocation : [string, string, number] = ['Rustenburg', '16.51', 17]
 footer.innerHTML = currentLocation[0] + ' ' + currentLocation[1] + ' ' + currentLocation[2] + '°'
 
 
