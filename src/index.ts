@@ -41,8 +41,8 @@ const reviews: Review[] = [
 ]
 
 const you = {
-    firstName: 'Manqoba',
-    lastName: 'Jiyane',
+    firstName: 'Bryan',
+    lastName: 'Setuke',
     permissions: Permissions.ADMIN,
     isReturning: true,
     age: 35,
